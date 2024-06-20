@@ -100,3 +100,6 @@ form .display input{
     font-size: 45px;
 }
 ```
+### Output
+![image](https://github.com/VisHinu24/Calculator/assets/144244396/131dd520-c57f-49d0-982c-fd2571a2744d)
+
