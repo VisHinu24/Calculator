@@ -1,4 +1,4 @@
-# Calculator using HTML,CSS,JAVASCRIPT
+# Calculator
 Simple calculator using html,css,javascript . User can add,subtract,multiply,divide and find the reminder in this calculator.  
 
 CODE:
